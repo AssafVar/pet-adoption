@@ -1,0 +1,18 @@
+.my-profile{
+    margin:0 10vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        background-image: 
+        url(
+            "https://www.vecteezy.com/free-vector/floral-background-design");
+        background-size: "cover";
+        height: auto;
+}
+.my-profile>div{
+    border: solid 1px rgb(77, 76, 76);
+    width: 50vw;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 10px;
+}

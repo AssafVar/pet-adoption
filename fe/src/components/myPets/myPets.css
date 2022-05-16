@@ -1,0 +1,6 @@
+.pet-card{
+    display: flex;
+    flex-direction: column;
+    border:rgb(147, 144, 144) solid 1px;
+    border-radius: 5px;
+}

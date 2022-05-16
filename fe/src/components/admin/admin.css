@@ -1,0 +1,35 @@
+.add-pet-page{
+    width: 50vw;
+    margin: auto;
+    margin-top: 30px;
+    padding:10px;
+}
+.dashboard-page{
+    display: flex;
+    flex-direction: row;
+}
+.dashboard-users{
+    display: flex;
+    flex-direction: column;
+}
+.dashboard-users span{
+    text-align: center;
+    font-size: 24px;
+}
+.dashboard-pets{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.dashboard-settings{
+    display: flex;
+    flex-direction: column;
+}
+.use-card{
+    cursor: pointer;
+}
+.add-pet-page{
+    width: 50%;
+    border: black solid 1px;
+    border-radius: 10px;
+}

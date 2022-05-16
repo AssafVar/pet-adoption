@@ -1,0 +1,12 @@
+
+.search-pets-list{
+    margin: auto;
+    text-align: center;
+}
+.select-search{
+    text-align: initial;
+}
+.search-button{
+    margin: 10px, 0;
+    float: left;
+}
